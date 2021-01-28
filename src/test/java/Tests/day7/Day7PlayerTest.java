@@ -1,7 +1,6 @@
 //package Tests.day7;
 //
 //import Tests.AbstractTest;
-//import day7.Player;
 //import org.junit.jupiter.api.BeforeEach;
 //import org.junit.jupiter.api.Test;
 //import org.laughingpanda.beaninject.Inject;
