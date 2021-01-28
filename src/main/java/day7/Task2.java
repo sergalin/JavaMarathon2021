@@ -8,12 +8,14 @@ public class Task2 {
         Player player1 = new Player(random.nextInt(11) + 90);
         Player player2 = new Player(random.nextInt(11) + 90);
         Player player3 = new Player(random.nextInt(11) + 90);
+        Player.info();
         Player player4 = new Player(random.nextInt(11) + 90);
         Player player5 = new Player(random.nextInt(11) + 90);
+        player1.run();
         Player player6 = new Player(random.nextInt(11) + 90);
         Player player7 = new Player(random.nextInt(11) + 90);
+        Player.info();
         Player player8 = new Player(random.nextInt(11) + 90);
-        player1.run();
         player1.run();
         player1.run();
         Player.getCountPlayers();
